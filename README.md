@@ -1,0 +1,2 @@
+# rudi
+tugas akhir rudi
